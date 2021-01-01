@@ -1,0 +1,27 @@
+.a{
+    color: aqua;
+background-color: brown;
+border: 5px solid rgb(161, 161, 206);
+margin-left: 40px;
+padding: 20px;
+} 
+.b{
+    color: rgb(209, 96, 105);
+background-color: rgb(88, 69, 133);
+border: 5px solid rgb(161, 161, 206);
+margin-left: 40px;
+padding: 20px;
+}
+.c{
+    color: rgb(211, 73, 80);
+    background-color: rgb(235, 213, 152);
+    border: 5px solid rgb(161, 161, 206);
+    margin-left: 40px;
+    padding: 20px;}
+    .d{
+        color: rgb(148, 87, 120);
+background-color: rgb(22, 74, 87);
+border: 5px solid rgb(161, 161, 206);
+margin-left: 40px;
+padding: 20px;
+    }
